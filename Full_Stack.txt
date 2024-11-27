@@ -1,0 +1,14 @@
+-> Backend 
+  -> npm init -y
+  -> npm i express
+  -> npm i dotenv cors
+
+--> eneviroment on top case to import to use
+const dotenv = require('dotenv');
+dotenv.config();
+
+
+main file is server.js file 
+
+server start karva
+npx nodemon
